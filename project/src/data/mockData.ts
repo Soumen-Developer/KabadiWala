@@ -7,7 +7,7 @@ export const services: Service[] = [
     slug: 'scrap-collection',
     shortDescription: 'Efficient collection of all types of scrap materials',
     description: 'Our professional scrap collection service offers convenient and environmentally responsible disposal of your unwanted scrap materials. We collect a wide range of scrap items including paper, plastic, metals, and more. Our team ensures proper recycling and disposal of all materials collected.',
-    imageUrl: '/PICS/pexels-cottonbro-6591428 scrapcollection.jpg',
+    imageUrl: './pexels-cottonbro-6591428%20scrapcollection.jpg',
     benefits: [
       'Convenient doorstep collection',
       'Competitive rates for your scrap',
@@ -30,7 +30,7 @@ export const services: Service[] = [
     slug: 'waste-management',
     shortDescription: 'Comprehensive waste management solutions for homes and businesses',
     description: 'Our waste management service provides end-to-end solutions for all your waste disposal needs. We handle sorting, recycling, and responsible disposal of various types of waste. Our service is designed to minimize environmental impact while providing convenient waste removal options.',
-    imageUrl: '/PICS/pexels-digitalbuggu-167538 waste manage.jpg',
+    imageUrl: './pexels-digitalbuggu-167538%20waste%20manage.jpg',
     benefits: [
       'Regular scheduled pickups',
       'Reduces environmental impact',
@@ -53,7 +53,7 @@ export const services: Service[] = [
     slug: 'e-waste-recycling',
     shortDescription: 'Safe disposal and recycling of electronic waste',
     description: 'Our e-waste recycling service ensures that your electronic items are disposed of responsibly. We handle computers, phones, appliances, and other electronic equipment. Our process ensures data security and environmentally safe recycling of components.',
-    imageUrl: '/PICS/pexels-humanistagram-19037726e-waste.jpg',
+    imageUrl: './pexels-humanistagram-19037726e-waste.jpg',
     benefits: [
       'Secure data destruction',
       'Prevents toxic materials from entering landfills',
@@ -76,7 +76,7 @@ export const services: Service[] = [
     slug: 'car-scrap-service',
     shortDescription: 'Professional car scrapping and recycling service',
     description: 'Our car scrap service offers hassle-free disposal of end-of-life vehicles. We handle all the paperwork and ensure that your vehicle is recycled properly. Our service includes free towing and competitive pricing for your old vehicle.',
-    imageUrl: '/PICS/pexels-umutart-29879066 car.jpg',
+    imageUrl: './pexels-umutart-29879066%20car.jpg',
     benefits: [
       'Free vehicle pickup and towing',
       'Competitive prices for your old vehicle',
@@ -99,7 +99,7 @@ export const services: Service[] = [
     slug: 'biomedical-waste-management',
     shortDescription: 'Specialized handling of medical and biohazard waste',
     description: 'Our biomedical waste management service ensures safe and compliant disposal of medical waste. We cater to hospitals, clinics, laboratories, and other healthcare facilities. Our team follows strict protocols for the handling and disposal of biohazardous materials.',
-    imageUrl: '/PICS/pexels-tomfisk-3174345 biomedical.jpg',
+    imageUrl: './pexels-tomfisk-3174345%20biomedical.jpg',
     benefits: [
       'Compliance with healthcare waste regulations',
       'Specialized containers for different waste types',
@@ -122,7 +122,7 @@ export const services: Service[] = [
     slug: 'after-event-cleanup',
     shortDescription: 'Quick and thorough cleanup service for events and functions',
     description: 'Our after event cleanup service provides comprehensive waste management solutions for events of all sizes. We handle everything from general waste to recyclables, ensuring your venue is left clean and waste is properly disposed of. Perfect for corporate events, weddings, festivals, and more.',
-    imageUrl: '/PICS/pexels-pixabay-433452 event.jpg',
+    imageUrl: './pexels-pixabay-433452%20event.jpg',
     benefits: [
       'Fast and efficient cleanup',
       'Sorting and recycling of event waste',
